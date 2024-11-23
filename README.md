@@ -1,2 +1,2 @@
 # GlowingFields
-A web-based sandbox game
+A browser-based sandbox game
