@@ -3,6 +3,7 @@
     "TEXT_LANG_REGION" : "United States",
     "TEXT_LANG_TRANSLATORS" : ["June Saturn"],
 
+
     "TEXT_OBJECT_ENERGY" : "Energy",
     "TEXT_OBJECT_ENERGY_CURSOR" : "Cursor",
     "TEXT_OBJECT_ENERGY_CABLEFIXED" : "Cable (Fixed)",
@@ -42,5 +43,11 @@
     "TEXT_OBJECT_ADVANCED" : "Controls (Advanced)",
     "TEXT_OBJECT_ADVANCED_ADRREGISTER" : "Address Register",
     "TEXT_OBJECT_ADVANCED_SCREENSELECTOR" : "Screen Selector",
-    "TEXT_OBJECT_ADVANCED_JSCIRCUIT" : "JS Circuit"
+    "TEXT_OBJECT_ADVANCED_JSCIRCUIT" : "JS Circuit",
+
+
+    "TEXT_MAIN_GETTINGSTARTED" : "Getting Started",
+    "TEXT_MAIN_WELCOME" : "Welcome to the world of\nGlowing Fields",
+    "TEXT_MAIN_NEWSPACE" : "Create New Space",
+    "TEXT_MAIN_LOADSPACE" : "Continue"
 }

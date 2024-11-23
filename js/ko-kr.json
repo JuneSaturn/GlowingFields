@@ -3,6 +3,7 @@
     "TEXT_LANG_REGION" : "대한민국",
     "TEXT_LANG_TRANSLATORS" : ["June Saturn"],
 
+
     "TEXT_OBJECT_ENERGY" : "에너지",
     "TEXT_OBJECT_ENERGY_CURSOR" : "커서",
     "TEXT_OBJECT_ENERGY_CABLEFIXED" : "전선 (고정)",
@@ -42,5 +43,11 @@
     "TEXT_OBJECT_ADVANCED" : "제어 (고급)",
     "TEXT_OBJECT_ADVANCED_ADRREGISTER" : "주소 레지스터",
     "TEXT_OBJECT_ADVANCED_SCREENSELECTOR" : "화면 지정기",
-    "TEXT_OBJECT_ADVANCED_JSCIRCUIT" : "JS 회로"
+    "TEXT_OBJECT_ADVANCED_JSCIRCUIT" : "JS 회로",
+
+
+    "TEXT_MAIN_GETTINGSTARTED" : "시작하기",
+    "TEXT_MAIN_WELCOME" : "Glowing Fields의 세상에\n오신 걸 환영합니다.",
+    "TEXT_MAIN_NEWSPACE" : "새 우주 만들기",
+    "TEXT_MAIN_LOADSPACE" : "이어하기"
 }
