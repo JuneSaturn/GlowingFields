@@ -1,0 +1,46 @@
+{
+    "TEXT_LANG_INFO" : "English",
+    "TEXT_LANG_REGION" : "United States",
+    "TEXT_LANG_TRANSLATORS" : ["June Saturn"],
+
+    "TEXT_OBJECT_ENERGY" : "Energy",
+    "TEXT_OBJECT_ENERGY_CURSOR" : "Cursor",
+    "TEXT_OBJECT_ENERGY_CABLEFIXED" : "Cable (Fixed)",
+    "TEXT_OBJECT_ENERGY_CABLEFLEXIBLE" : "Cable (Flexible)",
+    "TEXT_OBJECT_ENERGY_BEAM" : "Beam",
+    "TEXT_OBJECT_ENERGY_DETECTOR" : "Detector",
+    "TEXT_OBJECT_ENERGY_BATTERY" : "Battery",
+
+    "TEXT_OBJECT_LIGHTS" : "Lights",
+    "TEXT_OBJECT_LIGHTS_PIXELTILESMALL" : "Pixel Tile (Small)",
+    "TEXT_OBJECT_LIGHTS_PIXELTILEMEDIUM" : "Pixel Tile (Medium)",
+    "TEXT_OBJECT_LIGHTS_PIXELTILELARGE" : "Pixel Tile (Large)",
+    "TEXT_OBJECT_LIGHTS_PEN" : "Pen",
+
+    "TEXT_OBJECT_AUDIO" : "Audio",
+    "TEXT_OBJECT_AUDIO_NOTEBOX" : "Note Box",
+    "TEXT_OBJECT_AUDIO_MUSICBOX" : "Music Box",
+
+    "TEXT_OBJECT_MOVEMENT" : "Movement",
+    "TEXT_OBJECT_MOVEMENT_ROTATOR" : "Rotator",
+
+    "TEXT_OBJECT_CTRL" : "Controls",
+    "TEXT_OBJECT_CTRL_DISPLAY" : "Display",
+    "TEXT_OBJECT_CTRL_BUTTON" : "Button",
+    "TEXT_OBJECT_CTRL_01CIRCUIT" : "01 Circuit",
+    "TEXT_OBJECT_CTRL_REGISTER" : "Register",
+
+    "TEXT_OBJECT_MARKERS" : "Markers & Organizing",
+    "TEXT_OBJECT_MARKERS_TEXT" : "Text",
+    "TEXT_OBJECT_MARKERS_ICON" : "Icon",
+    "TEXT_OBJECT_MARKERS_PACKAGE" : "Package",
+    "TEXT_OBJECT_MARKERS_CAPSULE" : "Capsule",
+
+    "TEXT_OBJECT_OTHERS" : "Others",
+    "TEXT_OBJECT_OTHERS_CAMERA" : "Camera",
+
+    "TEXT_OBJECT_ADVANCED" : "Controls (Advanced)",
+    "TEXT_OBJECT_ADVANCED_ADRREGISTER" : "Address Register",
+    "TEXT_OBJECT_ADVANCED_SCREENSELECTOR" : "Screen Selector",
+    "TEXT_OBJECT_ADVANCED_JSCIRCUIT" : "JS Circuit"
+}

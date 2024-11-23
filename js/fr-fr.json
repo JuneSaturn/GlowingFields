@@ -1,0 +1,46 @@
+{
+    "TEXT_LANG_INFO" : "Français",
+    "TEXT_LANG_REGION" : "France",
+    "TEXT_LANG_TRANSLATORS" : ["June Saturn"],
+
+    "TEXT_OBJECT_ENERGY" : "Énergie",
+    "TEXT_OBJECT_ENERGY_CURSOR" : "Curseur",
+    "TEXT_OBJECT_ENERGY_CABLEFIXED" : "Câble (fixe)",
+    "TEXT_OBJECT_ENERGY_CABLEFLEXIBLE" : "Câble (flexible)",
+    "TEXT_OBJECT_ENERGY_BEAM" : "Faisceau",
+    "TEXT_OBJECT_ENERGY_DETECTOR" : "Détecteur",
+    "TEXT_OBJECT_ENERGY_BATTERY" : "Batterie",
+
+    "TEXT_OBJECT_LIGHTS" : "Lumières",
+    "TEXT_OBJECT_LIGHTS_PIXELTILESMALL" : "Tuile pixelisée (petite)",
+    "TEXT_OBJECT_LIGHTS_PIXELTILEMEDIUM" : "Tuile pixelisée (moyenne)",
+    "TEXT_OBJECT_LIGHTS_PIXELTILELARGE" : "Tuile pixelisée (grande)",
+    "TEXT_OBJECT_LIGHTS_PEN" : "Stylo",
+
+    "TEXT_OBJECT_AUDIO" : "Audio",
+    "TEXT_OBJECT_AUDIO_NOTEBOX" : "Boîte sonore",
+    "TEXT_OBJECT_AUDIO_MUSICBOX" : "Boîte à musique",
+
+    "TEXT_OBJECT_MOVEMENT" : "Mouvement",
+    "TEXT_OBJECT_MOVEMENT_ROTATOR" : "Rotator",
+
+    "TEXT_OBJECT_CTRL" : "Contrôles",
+    "TEXT_OBJECT_CTRL_DISPLAY" : "Écran",
+    "TEXT_OBJECT_CTRL_BUTTON" : "Bouton",
+    "TEXT_OBJECT_CTRL_01CIRCUIT" : "Circuit 01",
+    "TEXT_OBJECT_CTRL_REGISTER" : "Registre",
+
+    "TEXT_OBJECT_MARKERS" : "Marqueurs & Organisation",
+    "TEXT_OBJECT_MARKERS_TEXT" : "Texte",
+    "TEXT_OBJECT_MARKERS_ICON" : "Icône",
+    "TEXT_OBJECT_MARKERS_PACKAGE" : "Package",
+    "TEXT_OBJECT_MARKERS_CAPSULE" : "Capsule",
+
+    "TEXT_OBJECT_OTHERS" : "Autres",
+    "TEXT_OBJECT_OTHERS_CAMERA" : "Caméra",
+
+    "TEXT_OBJECT_ADVANCED" : "Contrôles (avancés)",
+    "TEXT_OBJECT_ADVANCED_ADRREGISTER" : "Registre d'adresses",
+    "TEXT_OBJECT_ADVANCED_SCREENSELECTOR" : "Sélecteur d'écran",
+    "TEXT_OBJECT_ADVANCED_JSCIRCUIT" : "Circuit JS"
+}
